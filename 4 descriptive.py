@@ -7,7 +7,7 @@ details={
     "Performance Score": [54, 76, 85, 48, 90, 67]
 }
 df= pd.DataFrame(details)
-print('Simple Dataframe')
+print('Simple Dataframe:')
 print(df)
-print('Descriptive Statistics')
+print('Descriptive Statistics:')
 print(df.describe())

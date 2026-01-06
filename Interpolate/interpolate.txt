@@ -1,0 +1,6 @@
+used for:
+    1. time series data
+    2. numeric data with trends
+    3. avoid dropping rows
+
+interpolate(method='liner/polynomial/time/...')

@@ -1,0 +1,15 @@
+You are given two Pandas DataFrames:
+    1. Customer Profile DataFrame
+        This contains basic customer information such as CustomerID, Name, and City.
+
+    2. Transaction History DataFrame
+        This contains customer transaction details such as CustomerID, TransactionID, and Amount.
+
+Your Goals:
+    1. Merge both DataFrames using the CustomerID column so that each customer’s profile is combined with their transaction history.
+
+    2. Create a new customer record (a new DataFrame row).
+
+    3. Concatenate this new customer record with the merged DataFrame.
+
+    4. Save the final DataFrame to a CSV file.

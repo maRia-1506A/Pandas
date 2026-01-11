@@ -1,0 +1,6 @@
+CustomerID,Name,City,TransactionID,Amount
+101,Maria,Jashore,1,600
+101,Maria,Jashore,3,450
+102,Afridi,Mymensingh,2,500
+103,Efath,Bhola,4,700
+104,Fathum,Kurigram,5,1000
